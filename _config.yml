@@ -2,16 +2,15 @@ url: https://remi-bot.github.io/
 baseurl: /My-project/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: EX-JAW writing code
+email: remibot@exjaw.org
+description: "We are girls on wings. We build stuff just because we can"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Remi Kehinde
   pic: 1
-  position: Lead Designer
+  position: Lead Developer
   social:
     - title: twitter
       url: #
@@ -20,9 +19,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Bolaji Oluyede
   pic: 2
-  position: Lead Marketer
+  position: Lead Designer
   social:
     - title: twitter
       url: #
@@ -31,9 +30,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Kayode Atobatele
   pic: 3
-  position: Lead Developer
+  position: Mentor in Residence
   social:
     - title: twitter
       url: #
@@ -57,7 +56,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
+  - line: 3481 ExJAW Plaza
   - line: Beverly Hills, CA 90210
 
 # Build settings
